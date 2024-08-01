@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lifetracker/static/css/main.a14f308f.css",
-    "main.js": "/lifetracker/static/js/main.a2ddd43d.js",
-    "static/js/453.c5b2ea31.chunk.js": "/lifetracker/static/js/453.c5b2ea31.chunk.js",
-    "index.html": "/lifetracker/index.html",
-    "main.a14f308f.css.map": "/lifetracker/static/css/main.a14f308f.css.map",
-    "main.a2ddd43d.js.map": "/lifetracker/static/js/main.a2ddd43d.js.map",
-    "453.c5b2ea31.chunk.js.map": "/lifetracker/static/js/453.c5b2ea31.chunk.js.map"
+    "main.css": "/LifeTracker/static/css/main.a14f308f.css",
+    "main.js": "/LifeTracker/static/js/main.6f48fa9d.js",
+    "static/js/453.c5b2ea31.chunk.js": "/LifeTracker/static/js/453.c5b2ea31.chunk.js",
+    "index.html": "/LifeTracker/index.html",
+    "main.a14f308f.css.map": "/LifeTracker/static/css/main.a14f308f.css.map",
+    "main.6f48fa9d.js.map": "/LifeTracker/static/js/main.6f48fa9d.js.map",
+    "453.c5b2ea31.chunk.js.map": "/LifeTracker/static/js/453.c5b2ea31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a14f308f.css",
-    "static/js/main.a2ddd43d.js"
+    "static/js/main.6f48fa9d.js"
   ]
 }
