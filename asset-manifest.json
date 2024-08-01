@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lifetracker/static/css/main.180905a4.css",
+    "main.js": "/lifetracker/static/js/main.472956c2.js",
+    "static/js/453.c5b2ea31.chunk.js": "/lifetracker/static/js/453.c5b2ea31.chunk.js",
+    "index.html": "/lifetracker/index.html",
+    "main.180905a4.css.map": "/lifetracker/static/css/main.180905a4.css.map",
+    "main.472956c2.js.map": "/lifetracker/static/js/main.472956c2.js.map",
+    "453.c5b2ea31.chunk.js.map": "/lifetracker/static/js/453.c5b2ea31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.180905a4.css",
+    "static/js/main.472956c2.js"
+  ]
+}
