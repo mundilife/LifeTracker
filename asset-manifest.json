@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LifeTracker/static/css/main.e3083198.css",
-    "main.js": "/LifeTracker/static/js/main.ee796a17.js",
+    "main.css": "/LifeTracker/static/css/main.cefb5e17.css",
+    "main.js": "/LifeTracker/static/js/main.6b6553a5.js",
     "static/js/453.c5b2ea31.chunk.js": "/LifeTracker/static/js/453.c5b2ea31.chunk.js",
     "index.html": "/LifeTracker/index.html",
-    "main.e3083198.css.map": "/LifeTracker/static/css/main.e3083198.css.map",
-    "main.ee796a17.js.map": "/LifeTracker/static/js/main.ee796a17.js.map",
+    "main.cefb5e17.css.map": "/LifeTracker/static/css/main.cefb5e17.css.map",
+    "main.6b6553a5.js.map": "/LifeTracker/static/js/main.6b6553a5.js.map",
     "453.c5b2ea31.chunk.js.map": "/LifeTracker/static/js/453.c5b2ea31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3083198.css",
-    "static/js/main.ee796a17.js"
+    "static/css/main.cefb5e17.css",
+    "static/js/main.6b6553a5.js"
   ]
 }
